@@ -1,6 +1,6 @@
 # Hello There👋! I'm Arnav Jain
 
-### I Mostly Work with **JavaScript** And **Python**. I Specialize In Professional Web Apps That Tun On The **React Framework**. Other Than That, I've Learnt
+### I Mostly Work with **JavaScript** And **Python**. I Specialize In Professional Web Apps That Tun On The **React Framework**. I'm also conversant with
 
 - Django
 - Flask
