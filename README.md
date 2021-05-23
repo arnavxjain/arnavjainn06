@@ -15,7 +15,7 @@
 
 ## My Particular Coding Interests
 ### I love coding and making new things, but not just any project...
-- Something that brings about a change to how we work with the digital world
+- Something that brings about a change to how we interact with the digital world
 - Something that makes your desktop expreience smoother
 - And something that makes a difference and is unique
 
