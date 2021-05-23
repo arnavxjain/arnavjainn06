@@ -21,11 +21,10 @@
 - And something that makes a difference and is unique
 
 ### Here Are My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnavjainn06)](https://github.com/arnavjainn06/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjainn06&layout=compact)](https://github.com/arnavjainn06/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavjainn06&show_icons=true&theme=blueberry)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjainn06&layout=compact&theme=blueberry)](https://github.com/arnavjainn06/github-readme-stats)
+
 
 ### Get To Know More About Me
 - [My Website](https://arnavjain.in)
