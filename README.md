@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjainn06&layout=compact)](https://github.com/arnavjainn06/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavjainn06&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavjainn06&show_icons=true&theme=blueberry)
 
 ### Get To Know More About Me
 - [My Website](https://arnavjain.in)
