@@ -12,7 +12,7 @@
 
 ### Talking About Other Languages, I've Had Slight Exposure To
 - C++
-- C
+- C#
 
 ### My Particular Coding Interests
 #### I love coding and making new things, but not just any project...
