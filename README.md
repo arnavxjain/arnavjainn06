@@ -2,6 +2,8 @@
 
 ### I Mostly Work with **JavaScript** And **Python**. I Specialize In Professional Web Apps That Tun On The **React Framework**. I'm also conversant with
 
+- Java
+- Kotlin
 - Django
 - Flask
 - Electron
