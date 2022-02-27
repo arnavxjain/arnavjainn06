@@ -2,8 +2,6 @@
 
 ### I Mostly Work with **JavaScript** And **Python**. I Specialize In Professional Web Apps That Tun On The **React Framework** And **Automating** Daily Tasks. I'm also conversant with
 
-- Java
-- Kotlin
 - Django
 - Flask
 - Electron
@@ -11,6 +9,8 @@
 - Vue JS
 - React Native
 - Expo
+- Java
+- Kotlin
 
 ### Talking About Other Languages, I've Had Slight Exposure To
 - C++
