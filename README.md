@@ -4,6 +4,7 @@
 
 - Django
 - Flask
+- Dart/Flutter
 - Electron
 - Next JS
 - Vue JS
