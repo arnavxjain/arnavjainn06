@@ -1,6 +1,6 @@
 # Hello There👋! I'm Arnav Jain
 
-### I love perogrammng. I specialize in **React**. I'm currently learning Flutter (By Google) which is programmed in **Dart**.
+### I love programmng. I specialize in **React**. I'm currently learning **Flutter** (By Google) which is programmed in **Dart**.
 
 ### A few other frameworks that I have worked with include:
 - Django
