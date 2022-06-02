@@ -1,21 +1,26 @@
 # Hello There👋! I'm Arnav Jain
 
-### I Mostly Work with **JavaScript** And **Python**. I Specialize In Professional Web Apps That Tun On The **React Framework** And **Automating** Daily Tasks. I'm also conversant with
+### I love perogrammng. I specialize in **React**. I'm currently learning Flutter (By Google) which is programmed in **Dart**.
 
+### A few other frameworks that I have worked with include:
 - Django
 - Flask
-- Dart/Flutter
 - Electron
 - Next JS
 - Vue JS
 - React Native
 - Expo
+
+### Languages I've had slight exposure to:
 - Java
 - Kotlin
-
-### Talking About Other Languages, I've Had Slight Exposure To
 - C++
 - C#
+
+### Languages/Frameworks/Modules I want to learn in the future:
+- Bootstrap
+- Tailwind CSS
+- Chakra UI
 
 ### My Particular Coding Interests
 #### I love coding and making new things, but not just any project...
