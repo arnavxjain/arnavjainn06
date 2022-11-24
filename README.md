@@ -1,4 +1,4 @@
-# Hello There👋! I'm Arnav Jain
+# 👋 Hello There! I'm Arnav Jain
 
 ### I love programmng. I specialize in **React**. I'm currently learning **Flutter** (By Google) which is programmed in **Dart**.
 
